@@ -26,3 +26,21 @@ Chinese translation:
 Highlighted words:
 1. impact - 影响；作用
 2. interactions - 互动；相互交流
+
+---
+
+Changes in climate #41566
+
+Original:
+Changes in climate affect, for example, the plant and animal life of a given area. The presence of coal beds in North America and Europe along with evidence of glaciation in these same areas indicates that they must have experienced alternately warmer and colder climates than they now possess.
+
+Chinese translation:
+气候变化会影响某一特定地区的动植物生存状况。北美和欧洲存在煤层，再加上这些相同地区存在冰川作用的证据，表明这些地区一定曾经历过比现在更温暖和更寒冷的交替气候。
+
+Highlighted words:
+1. presence - 存在；出现
+2. coal - 煤
+3. glaciation - 冰川作用；冰川化
+4. indicates - 表明；显示
+5. alternately - 交替地；轮流地
+6. possess - 拥有；具有
