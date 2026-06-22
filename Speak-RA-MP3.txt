@@ -12,3 +12,17 @@ Highlighted words:
 3. consulted - 被查阅；被咨询
 4. accordance - 依照；按照
 5. regulations - 规定；规章制度
+
+---
+
+Psychology #41578
+
+Original:
+Psychology is the study of cognitions, emotions, and behavior. Psychologists are involved in a variety of tasks. Many spend their careers designing and performing research to understand how people behave in specific situations, how and why we think the way we do, and how emotions develop and what impact they have on our interactions with others.
+
+Chinese translation:
+心理学是对认知、情绪和行为的研究。心理学家参与各种各样的任务。许多人将自己的职业生涯用于设计和开展研究，以了解人们在特定情境中如何表现，我们如何以及为什么会以某种方式思考，以及情绪如何发展并对我们与他人的互动产生什么影响。
+
+Highlighted words:
+1. impact - 影响；作用
+2. interactions - 互动；相互交流
