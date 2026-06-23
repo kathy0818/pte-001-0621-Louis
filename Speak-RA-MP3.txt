@@ -44,3 +44,22 @@ Highlighted words:
 4. indicates - 表明；显示
 5. alternately - 交替地；轮流地
 6. possess - 拥有；具有
+
+---
+
+Application of information technology
+
+Original:
+In medicine, the application of information technology means the digitalization of medical records and the establishment of an intelligent network for sharing those records. Other benefits flow from these technological changes. In the past medicine has taken a paternalistic stance, with the all-knowing physician dispensing wisdom, but that is becoming increasingly untenable.
+
+Chinese translation:
+在医学领域，信息技术的应用意味着医疗记录的数字化，以及建立一个用于共享这些记录的智能网络。其他益处也随这些技术变化而来。过去，医学采取的是一种家长式的立场，由无所不知的医生传授智慧，但这种做法正变得越来越难以维持。
+
+Highlighted words:
+1. digitalization - 数字化
+2. records - 记录；档案
+3. paternalistic - 家长式的；专断保护式的
+4. stance - 立场；态度
+5. physician - 医生；内科医生
+6. dispensing - 分发；提供；给予
+7. untenable - 站不住脚的；难以维持的
