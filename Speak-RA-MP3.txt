@@ -78,3 +78,19 @@ Highlighted words:
 1. industry - 行业；产业
 2. attempted - 尝试；试图
 3. specific - 特定的；专门的
+
+---
+
+Major conclusion
+
+Original:
+Our major conclusion is that the current measure needs to be revised. It no longer provides an accurate picture of the differences in the extent of economic poverty among population groups or geographic areas of the country, nor an accurate picture of trends over time.
+
+Chinese translation:
+我们的主要结论是，现行的衡量方法需要修订。它不再能够准确反映不同人口群体或该国不同地理区域之间经济贫困程度的差异，也无法准确反映随时间变化的趋势。
+
+Highlighted words:
+1. accurate - 准确的；精确的
+2. extent - 程度；范围
+3. poverty - 贫困；贫穷
+4. geographic - 地理的
